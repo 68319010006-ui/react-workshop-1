@@ -1,5 +1,9 @@
 import "./App.css";
+<<<<<<< HEAD
 import Post from "./post";
+=======
+import Post from "./Post";
+>>>>>>> 58d5da032ca37066098fd2298947b67ade8639dd
 
 function App() {
   const myName = "Tanadol Khumin";
@@ -9,10 +13,17 @@ function App() {
   const randomNumber = Math.random();
   return (
     <>
+<<<<<<< HEAD
       <Post student="sam" score="50"/>
       <Post student="hui" score="60"/>
       <Post myId="1"> Acer Gaming Open </Post>
       <Post myId="2"> Azus Gaming Open </Post>
+=======
+    <Post student = "tunwa "  score = "50"/>
+    <Post student = "artai "  score = "60"/>
+    {/* <Post myId = "1">Acer Gaming Open</Post>
+    <Post myId = "2">Azus Gaming Open</Post> */}
+>>>>>>> 58d5da032ca37066098fd2298947b67ade8639dd
 
       {/* <h1>Hello World</h1>
       <h2 style={{ color: "green", fontSize: "24" }}>
@@ -28,6 +39,9 @@ function App() {
 }
 
 export default App;
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 58d5da032ca37066098fd2298947b67ade8639dd
